@@ -18,8 +18,8 @@ set novisualbell
 set t_vb=
 set tm=500
 
-
-
+" turn on syntax highlighting
+syntax on
 
 set backspace=start,indent,eol
 set t_Co=256
